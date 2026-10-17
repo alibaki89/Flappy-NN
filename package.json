@@ -1,0 +1,30 @@
+{
+  "name": "flappy-nn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start -H 0.0.0.0 -p 7860",
+    "lint": "eslint",
+    "train:cpu": "tsx scripts/train-cpu.ts",
+    "eval:cpu": "tsx scripts/eval-cpu.ts",
+    "eval:cpu:random": "tsx scripts/eval-cpu-random.ts"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "tsx": "^4.22.3",
+    "typescript": "^5"
+  }
+}

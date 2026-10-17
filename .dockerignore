@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.venv
+.env
+.env.local
+npm-debug.log
+public/models/checkpoints
+public/models/eval-reports
