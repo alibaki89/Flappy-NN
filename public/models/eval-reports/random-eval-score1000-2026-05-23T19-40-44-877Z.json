@@ -1,0 +1,225 @@
+{
+  "model": "C:\\Users\\asus\\neurobird-ai\\public\\models\\cpu-model.json",
+  "episodes": 30,
+  "winScore": 1000,
+  "maxFrames": 180000,
+  "config": {
+    "pipeGapMin": 150,
+    "pipeGapMax": 190,
+    "pipeSpeed": 1.95,
+    "gravity": 0.34,
+    "flapStrength": -6.4
+  },
+  "results": [
+    {
+      "episode": 1,
+      "seed": "random-eval-1-e5e6c02d-2a45-494d-9c5a-c5800f082d87",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 2,
+      "seed": "random-eval-2-17b33f13-8d3b-464f-8851-e1537deabbda",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 3,
+      "seed": "random-eval-3-debb9fa0-1610-48d0-a6dc-8855464a7693",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 4,
+      "seed": "random-eval-4-222e2717-5d80-4216-af82-c90e503a8f0e",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 5,
+      "seed": "random-eval-5-acd8633f-79e7-401c-86f1-1fb71de1138f",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 6,
+      "seed": "random-eval-6-09c0ccec-f7c5-4a1f-b644-2bbd0ecdb418",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 7,
+      "seed": "random-eval-7-1db73311-699e-4120-9296-a686ba045bf7",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 8,
+      "seed": "random-eval-8-e3a51adf-429d-469d-8c6f-bb110103bed9",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 9,
+      "seed": "random-eval-9-f65f4802-3e3b-446b-a332-9a0bfb7a399b",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 10,
+      "seed": "random-eval-10-2b4e851f-0027-4cdd-bd32-9b8a59f2fe01",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 11,
+      "seed": "random-eval-11-7a89a8e5-8f61-4871-a205-ea74aab1309a",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 12,
+      "seed": "random-eval-12-ae87a28b-d11a-48c8-bf95-12d0ba540d8a",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 13,
+      "seed": "random-eval-13-3a1b6a18-b940-4b54-aaa6-54ae1ecb9e41",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 14,
+      "seed": "random-eval-14-49ed0066-7782-4a5e-9a4b-87b3783fb42c",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 15,
+      "seed": "random-eval-15-76fabfe2-d76f-40d7-bde5-ef41338a81bb",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 16,
+      "seed": "random-eval-16-61ebf3ba-da3e-4108-839f-03c3be228c54",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 17,
+      "seed": "random-eval-17-d26772ce-f5d4-4f7f-8b1d-d145f2e86fac",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 18,
+      "seed": "random-eval-18-b3ddd423-9b5d-489f-a16f-676645adb319",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 19,
+      "seed": "random-eval-19-fac33115-94f5-463d-8b8f-f00552f18e4e",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 20,
+      "seed": "random-eval-20-b54c1703-110d-4bb6-b98a-2909bf9d8583",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 21,
+      "seed": "random-eval-21-348ee3cd-882a-4968-afa2-28d2d385c3e3",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 22,
+      "seed": "random-eval-22-1e21b316-2992-4d6a-9aa1-4067ef7bfcf9",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 23,
+      "seed": "random-eval-23-a86c5b18-b99c-4b3b-a470-c503dae43e1e",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 24,
+      "seed": "random-eval-24-4878576e-0d4d-4756-965c-f55100736659",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 25,
+      "seed": "random-eval-25-905386d6-edd3-4254-b4e4-b79a6cec5e5a",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 26,
+      "seed": "random-eval-26-b6ceaaa1-c623-4364-9ed5-bf36bfaf9a51",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 27,
+      "seed": "random-eval-27-6a3c1fd5-fdfb-4694-adda-d1dad24c7d96",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 28,
+      "seed": "random-eval-28-ac04f820-5a52-43a8-8c5e-dce723f2534d",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 29,
+      "seed": "random-eval-29-ed6a60a9-786f-40e7-93a5-2c49114e1a45",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 30,
+      "seed": "random-eval-30-574eaa4b-312b-4da5-9011-aa9564ea4868",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    }
+  ]
+}

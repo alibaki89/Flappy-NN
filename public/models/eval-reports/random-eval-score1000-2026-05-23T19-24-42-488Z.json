@@ -1,0 +1,85 @@
+{
+  "model": "C:\\Users\\asus\\neurobird-ai\\public\\models\\cpu-model.json",
+  "episodes": 10,
+  "winScore": 1000,
+  "maxFrames": 180000,
+  "config": {
+    "pipeGapMin": 150,
+    "pipeGapMax": 190,
+    "pipeSpeed": 1.95,
+    "gravity": 0.34,
+    "flapStrength": -6.4
+  },
+  "results": [
+    {
+      "episode": 1,
+      "seed": "random-eval-1-3f69d1ea-8290-4e88-aa19-caa5b91a8bcc",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 2,
+      "seed": "random-eval-2-863996ea-7050-4dd1-b78b-dc07cf90c7b9",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 3,
+      "seed": "random-eval-3-bc4a1bbd-5b28-4329-a304-ece4568e107d",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 4,
+      "seed": "random-eval-4-ca7b4b0c-121f-4fab-9ba0-6c7dcada9708",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 5,
+      "seed": "random-eval-5-66675686-7160-4f34-abbc-40158ead4ef2",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 6,
+      "seed": "random-eval-6-e090f3d6-1c26-4df5-97e2-0061487ec886",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 7,
+      "seed": "random-eval-7-9d63e374-a6c3-4c36-b69a-1121e6c9b4a1",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 8,
+      "seed": "random-eval-8-3a81f937-fcb4-495a-bfe2-8a6ff9535183",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 9,
+      "seed": "random-eval-9-64a50f74-1662-41fd-89a1-3f4850fb16fa",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    },
+    {
+      "episode": 10,
+      "seed": "random-eval-10-0055f677-9646-45af-a7ca-8150637e929d",
+      "score": 1000,
+      "frames": 141030,
+      "reason": "win"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Flappy-NN",
+  "source_archive": "Flappy-NN(2).zip",
+  "source_files_excluding_cli_cache": 81,
+  "release_files_excluding_manifest": 62,
+  "changed_same_path": [
+    ".gitignore",
+    "README.md"
+  ],
+  "removed_paths": [
+    "PROJECT_SPEC.md",
+    "public/file.svg",
+    "public/globe.svg",
+    "public/models/checkpoints/cpu-model-ep200-wins30-avg30.00-min30-max30.json",
+    "public/models/cpu-model-9of10-score1000.json",
+    "public/models/cpu-model-before-hard-gap-finetune.json",
+    "public/models/cpu-model-best-ep1500.json",
+    "public/models/cpu-model-best-score100.json",
+    "public/models/cpu-model-best-score300.json",
+    "public/models/cpu-model-fixed-gap-perfect.json",
+    "public/models/cpu-model-good-score30.json",
+    "public/models/cpu-model-random-10of10-score1000.json",
+    "public/models/cpu-model-random-30of30-score1000.json",
+    "public/models/cpu-model-release-final.json",
+    "public/models/cpu-model-release-fixed-gap-v1.json",
+    "public/models/cpu-model-release-v1.json",
+    "public/models/cpu-model-release-v2-variable-gap.json",
+    "public/models/cpu-model-release-v3-solved.json",
+    "public/models/cpu-model-release-v4-generalized.json",
+    "public/models/cpu-model-release-v5-solved-random1000.json",
+    "public/models/cpu-model-release-variable-gap-v2.json",
+    "public/models/cpu-model-solved-score1000.json",
+    "public/models/cpu-model-variable-gap-9of10-score300.json",
+    "public/next.svg",
+    "public/vercel.svg",
+    "public/window.svg"
+  ],
+  "new_paths": [
+    "docs/ARCHITECTURE.md",
+    "docs/LICENSING.md",
+    "docs/TECHNICAL_REPORT.md",
+    "docs/TRAINING.md",
+    "docs/archive/PROJECT_SPEC.md"
+  ],
+  "code_unchanged": true
+}
